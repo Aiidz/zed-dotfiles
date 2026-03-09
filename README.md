@@ -11,7 +11,7 @@ Minimalist Zed editor configuration for Windows development.
 * **settings.json**: Editor preferences and UI.
 * **keymap.json**: Custom keyboard bindings.
 * **tasks.json**: Task configurations for Zed.
-* **custom_runfile.bat**: Logic for executing different file types.
+* **run.bat**: Logic for executing different file types.
 
 ## Installation
 Place all files in:
