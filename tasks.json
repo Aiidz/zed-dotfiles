@@ -1,9 +1,11 @@
 [
   {
     "label": "run file",
-    "command": "cmd /c %APPDATA%\\Zed\\custom_runfile.bat",
+    "command": "cmd /c %APPDATA%\\Zed\\run.bat",
     "use_new_terminal": false,
     "allow_concurrent_runs": false,
     "reveal": "always",
+    "show_summary": false,
+    "show_command": false,
   },
 ]
