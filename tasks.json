@@ -1,0 +1,9 @@
+[
+  {
+    "label": "run file",
+    "command": "cmd /c %USERPROFILE%\\.config\\zed\\run.bat",
+    "use_new_terminal": false,
+    "allow_concurrent_runs": false,
+    "reveal": "always",
+  },
+]
